@@ -48,6 +48,7 @@ p {
   background-image: linear-gradient(45deg, lightsalmon, tomato);
   padding: 5px 20px;
   border-radius: 5px;
+  box-shadow: 5px 5px 10px lightgrey;
 }
 
 .dream-area {
